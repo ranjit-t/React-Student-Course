@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+div {
+  margin-top: 20px;
+}
+.nav-links {
+  margin: 10px;
+  padding: 5px;
+}
+.active {
+  background-color: rgb(246, 153, 31);
+  color: white;
+}
